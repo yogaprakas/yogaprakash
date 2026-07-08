@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogaprakash%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20E-Learning%20Tech%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogaprakash%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20%2F%20Full-Stack%20Developer%20%7C%20E-Learning%20Tech%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Yogaprakash+M+%F0%9F%91%8B;Python+%7C+Flask+%7C+Full-Stack+Developer;Building+Scalable+Web+Apps+%26+REST+APIs;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Yogaprakash+M+%F0%9F%91%8B;Data+Analyst+%7C+Python+%7C+Flask+Developer;Turning+Raw+Data+into+Business+Insight;Building+Scalable+Web+Apps+%26+REST+APIs;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,16 +18,16 @@ class Yogaprakash:
         self.cgpa        = 7.5
 
         self.stack = [
-            "Python", "Flask", "React",
+            "Python", "SQL", "Pandas", "NumPy",
+            "Power BI", "Excel", "Flask", "React",
             "MySQL", "SQLite", "REST APIs",
-            "HTML5", "CSS3", "JavaScript",
         ]
 
         self.currently_learning = [
-            "Full-Stack Dev → Qspyders (5-month course)",
-            "LMS Platforms  → SCORM / xAPI Standards",
-            "Cloud          → AWS Basics & Deployment",
-            "DevOps         → Git, CI/CD Pipelines",
+            "Data Analytics  → Advanced SQL, Power BI, DAX",
+            "Full-Stack Dev  → Qspyders (5-month course)",
+            "LMS Platforms   → SCORM / xAPI Standards",
+            "Cloud & DevOps  → AWS Basics, Git, CI/CD",
         ]
 
         self.fun_fact = "I built a Smart Home before I built a portfolio 🏠⚡"
@@ -48,10 +48,19 @@ print(me.motto())
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Data_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -66,10 +75,7 @@ print(me.motto())
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Google Data Studio](https://img.shields.io/badge/Data_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Concepts**
 
@@ -90,22 +96,6 @@ print(me.motto())
   <a href="https://github.com/yogaprakashm">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprakashm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yogaprakashm&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogaprakashm&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -162,6 +152,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
+| 📈 **[Hatsun Agro Retail Data Analysis](https://github.com/yogaprakashm)** | Python · Pandas · Excel · Power BI | Matched and reconciled store-level records across two independent retail datasets; built a multi-slide report visualizing product launch trends by state and city to surface expansion patterns |
 | 💊 **[Medication Adviser System](https://github.com/yogaprakashm)** | Python · Flask · MySQL · HTML5 · CSS3 | Rule-based symptom-to-medication engine; MVC architecture; responsive UI mirroring e-learning UX patterns |
 | 🏥 **[Edge AI Health Monitoring](https://github.com/yogaprakashm)** | Python · ML · IoT · Edge Computing | Real-time EMR + wearable sensor integration; **60% cloud reduction**; **25% faster** response; HIPAA-aligned encryption |
 | 🏠 **[Home Automation System](https://github.com/yogaprakashm)** | Python · MQTT · IoT · Cloud | Smart home via MQTT protocol; **80% reduction** in manual control; **30% efficiency gain**; async event handling |
@@ -201,11 +192,11 @@ print(me.motto())
 ## 🧠 Currently Learning
 
 ```
+📊 Data Analytics    →  Advanced SQL, Power BI, DAX, Data Storytelling
 🐍 Python Advanced   →  Decorators, Generators, Async/Await, Design Patterns
 🌐 Full-Stack Dev    →  React, Node.js, REST & GraphQL APIs
 ☁️  Cloud & DevOps   →  AWS Basics, Docker, CI/CD Pipelines
 📚 E-Learning Tech   →  SCORM, xAPI (Tin Can), LMS Integration
-🗄️  Databases        →  PostgreSQL, Redis, Query Optimisation
 ```
 
 ---
